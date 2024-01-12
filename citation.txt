@@ -1,0 +1,6 @@
+@inproceedings{REPO252,
+    author = "Zi, Bojia and Zhao, Shihao and Ma, Xingjun and Jiang, Yu-Gang",
+    booktitle = "International Conference on Computer Vision",
+    title = "{Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better}",
+    year = "2021"
+}
