@@ -1,0 +1,12 @@
+nohup: ignoring input
+==> Load Test Data
+==> Load Model
+mobilenet_v2
+/home/wangchengyu/lbn/RSLAD/models/mobilenet_v2-CIFAR10_RSLAD0.5487.pth
+Natural Test Accuracy: 82.87%
+/home/wangchengyu/anaconda3/envs/wcy_torch/lib/python3.8/site-packages/torch/nn/_reduction.py:42: UserWarning: size_average and reduce args will be deprecated, please use reduction='sum' instead.
+  warnings.warn(warning.format(ret))
+FGSM without Random Start Test Accuracy: 59.14%
+PGD20 Madry Test Accuracy: 53.42%
+PGD20 trades Test Accuracy: 54.79%
+PGD20 trades Test Accuracy: 54.79%
